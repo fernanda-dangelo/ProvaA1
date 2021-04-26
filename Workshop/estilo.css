@@ -1,0 +1,25 @@
+body{
+	padding: 10px;
+	font-size: 16px;
+}
+
+.titulo{
+	text-align: center;
+}
+
+#posicao{
+	text-align: center;
+}
+
+#imagem{
+	padding-top: 10px;
+	height: 250px;
+}
+
+#texto{
+	padding-top: 30px;
+}
+
+#rodape{
+	color: #000080;
+}
